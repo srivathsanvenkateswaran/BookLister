@@ -12,3 +12,5 @@ Note:
   I am yet to update the UI of the app with a search interface and hence, for time sake, I have used an EditText and an ImageButton to mimic the Search Interfacec. Hence, you can perform the search opearation only once and in order to perform another search operation, you would have to reload the app again i.e. close the app and launch it again.
   
   This will be fixed soon... 
+ 
+PS: APK of the app will be added once the search interface is added. 
