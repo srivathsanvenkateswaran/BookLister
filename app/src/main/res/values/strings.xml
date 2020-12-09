@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book Lister</string>
+    <string name="search_text">Enter topic to list books</string>
+    <string name="empty_state_text">No Internet! Check your Internet Connection!</string>
+    <string name="empty_data_text">No Data from the server</string>
+</resources>
